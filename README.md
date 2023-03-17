@@ -1,6 +1,12 @@
 # GPT usage
 This is the notebook for using GPT
 
+## Features
+
+- Variation Generation (DALL-E)
+
+- GPT chat api
+
 ## Installation
 
 Install require packages:
